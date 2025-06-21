@@ -42,7 +42,7 @@
     "sleepingstatus": "[HTML]If player is sleeping, \"<span style='color:rgb(65, 62, 211);font-family: MinecraftBold'>Sleeping</span>\" when in bed or Empty",
     
 
-    "if-error-report": "⚠️ If you find an error in the generator, report it in our <a href=\"https://alonsoaliaga.com/discord\" rel=\"noopener\" target=\"_blank\">Discord server</a>!",
+    "if-error-report": "[HTML]⚠️ If you find an error in the generator, report it in our <a href=\"https://alonsoaliaga.com/discord\" rel=\"noopener\" target=\"_blank\">Discord server</a>!",
     "more-tools-for-you": "More tools for you:",
     "looking-pixelart": "Looking for a pixelart like this? 💎",
     "looking-render": "Looking for a render like this one? 💎",

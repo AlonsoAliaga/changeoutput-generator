@@ -41,7 +41,7 @@
     "canfly": "[HTML]Se il giocatore può volare, \"<span style='color:rgb(84, 216, 58);font-family: MinecraftBold'>Flight available!</span>\" oppure \"<span style='color:rgb(255, 76, 76);font-family: MinecraftBold'>Flight disabled!</span>\"",
     "sleepingstatus": "[HTML]Se il giocatore sta dormendo, \"<span style='color:rgb(65, 62, 211);font-family: MinecraftBold'>Sleeping</span>\" quando è a letto oppure Vuoto",
 
-    "if-error-report": "⚠️ Se trovi un errore nel generatore, segnalalo nel nostro <a href=\"https://alonsoaliaga.com/discord\" rel=\"noopener\" target=\"_blank\">server Discord</a>!",
+    "if-error-report": "[HTML]⚠️ Se trovi un errore nel generatore, segnalalo nel nostro <a href=\"https://alonsoaliaga.com/discord\" rel=\"noopener\" target=\"_blank\">server Discord</a>!",
     "more-tools-for-you": "Altri strumenti per te:",
     "looking-pixelart": "Cerchi una pixelart come questa? 💎",
     "looking-render": "Cerchi un render come questo? 💎",
