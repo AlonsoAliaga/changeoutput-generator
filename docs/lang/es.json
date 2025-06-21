@@ -1,0 +1,52 @@
+{
+    "online-viewers": [
+        "🟢 {VIEWERS} en linea perfeccionando sus placeholders minuciosamente!",
+        "🟢 {VIEWERS} en linea arreglando sus placeholders vacios.",
+        "🟢 {VIEWERS} en linea haciendo que su %placeholder% más atractivo.",
+        "🟢 {VIEWERS} en linea haciendo mágia para mejorar sus placeholders aburridos.",
+        "🟢 {VIEWERS} en linea haciendo que placeholders vacios digan cosas grandiosas."
+    ],
+    "use-chrome": "Usa Google Chrome u Opera para una mejor experiencia. Edge parece no ser compatible!",
+    "site-options": "Opciones de sitio:",
+    "dark-mode": "Modo Oscuro 👁️‍🗨️",
+    "auto-button": "🤖 AUTO",
+    "how-different": "¿Porqué es diferente este generador?",
+    "how-different-answer": "[HTML]Bueno, podrían haber más. Pero este es el más facil de usar, y tiene <b class=\"rainbow\">muchas</b> opciones 👀",
+    "cool-ideas": "[HTML]⚠️ Si tienes buenas ideas, sugierelas en nuestro <a href=\"https://alonsoaliaga.com/discord\" rel=\"noopener\" target=\"_blank\">Servidor oficial de Discord</a>.",
+    "if-tool-useful": "[HTML]Si te parece útil nuestra web, considera <a href=\"https://alonsoaliaga.com/donate\" rel=\"noopener\" target=\"_blank\">hacer una donación</a> por nuestro trabajo. ¡Lo apreciamos mucho!",
+    "successfully-copied": "[HTML]<b>💎 ¡Copiado con éxito! 💎</b><br><span style=\"font-size: small;\">¡Gracias por usar nuestra web!</span>",
+    "click-to-copy": "🖱️ ¡Clic en el cuadro de arriba para copiar el placeholder!",
+    "start-creating": "¡Empieza creando tu placeholder! 🎮",
+    "generator-if": "SI",
+    "generator-is": "ES",
+    "generator-than": "QUE",
+    "generator-return": "REGRESA",
+    "generator-otherwise-return": "SINO, REGRESA",
+    "option-equals": "IGUAL",
+    "option-ignorecase": "IGUAL IGNORANDO MAYUS/MINUS",
+    "option-ignorecolor": "IGUAL IGNORANDO COLORES",
+    "option-contains": "CONTIENE||",
+    "option-greaterorequal": "MAYOR O IGUAL",
+    "option-greater": "MAYOR",
+    "option-lowerorequal": "MENOR O IGUAL",
+    "option-lower": "MENOR",
+    
+    "preset-options": "Optiones predefinidas 🔍",
+
+    "luckpermsrankorpurchase": "[HTML]Prefijo de rango de Luckperms o \"<span style='color:rgb(255, 76, 76);font-family: MinecraftBold'>Purchase a rank!</span>\"",
+    "vaultrankorpurchase": "[HTML]Prefijo de rango de Vault o \"<span style='color:rgb(255, 76, 76);font-family: MinecraftBold'>Purchase a rank!</span>\"",
+    "betterteamsname": "[HTML]Mostrar el nombre del equipo de BetterTeams o \"<span style='color:rgb(255, 76, 76);font-family: MinecraftBold'>No Team!</span>\"",
+    "hasenoughmoney": "[HTML]Si el jugador tiene suficiente dinero, \"<span style='color:rgb(84, 216, 58);font-family: MinecraftBold'>Can be purchased!</span>\" o \"<span style='color:rgb(255, 76, 76);font-family: MinecraftBold'>Not enough money!</span>\"",
+    "isonline": "[HTML]Si el jugador está en línea, \"<span style='color:rgb(84, 216, 58);font-family: MinecraftBold'>Online</span>\" o \"<span style='color:rgb(255, 76, 76);font-family: MinecraftBold'>Offline</span>\"",
+    "hasrankpermission": "[HTML]Si el jugador tiene permiso de rango, \"<span style='color:rgb(84, 216, 58);font-family: MinecraftBold'>Rank Unlocked</span>\" o \"<span style='color:rgb(255, 76, 76);font-family: MinecraftBold'>Locked</span>\"",
+    "canfly": "[HTML]Si el jugador puede volar, \"<span style='color:rgb(84, 216, 58);font-family: MinecraftBold'>Flight available!</span>\" o \"<span style='color:rgb(255, 76, 76);font-family: MinecraftBold'>Flight disabled!</span>\"",
+    "sleepingstatus": "[HTML]Si el jugador está durmiendo, \"<span style='color:rgb(65, 62, 211);font-family: MinecraftBold'>Sleeping</span>\" cuando está en la cama o vacío",
+
+
+    "if-error-report": "⚠️ Si encuentras un error en el generador, reportalo en nuestro <a href=\"https://alonsoaliaga.com/discord\" rel=\"noopener\" target=\"_blank\">server de Discord</a>!",
+    "more-tools-for-you": "Mas herramientas para ti:",
+    "looking-pixelart": "¿Buscas un pixelart como este? 💎",
+    "looking-render": "¿Buscas un render como este? 💎",
+    "looking-animation": "¿Buscas una animation como esta? 💎",
+    "footer": "[HTML]❤️ Gracias a <a href=\"https://alonsoaliaga.com/donate\" rel=\"noopener\" target=\"_blank\">AlonsoAliaga</a> por su gran trabajo durante el desarrollo de esta herramienta."
+}
