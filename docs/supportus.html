@@ -39,7 +39,7 @@
     <button style="height: 80px;width: 100%;font-size: 20px;border-radius: 0px;background-color: #ff8d00;font-weight: bold;" class="darkbuttonboxes" id="support-button">Loading..</button>
   </div><br>
   <span style="left: calc(50% - 270px);" id="snackbar"><b>⌛ Reduce waiting time by clicking ads! ⌛</b><br><span style="font-size: small;">Thanks for your support!</span></span>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5185973148525065"
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5185973148525065"
     crossorigin="anonymous"></script>
   <script>
     (adsbygoogle = window.adsbygoogle || []).push({
@@ -48,7 +48,7 @@
       overlays: { bottom: true },          // banner “anchor” en la parte inferior :contentReference[oaicite:4]{index=4}
       vignette: true                    // si quieres también intersticiales
     });
-  </script>
+  </script> -->
   <script src="resources.js"></script>
   <script>
     function processAds() {}
@@ -80,7 +80,17 @@
             time--;
         },1000)
     }
-    populate();
+    setTimeout(()=>{
+      let div = document.createElement("div");
+      let h2 = document.createElement("h2");
+      h2.style.cssText = "font-size: 15px ;text-align: center;";
+      h2.innerHTML = `⛔ This site doesn't contain any ad from <a href="https://www.google.com" rel="noopener" target="_blank">Google</a>!<br><br>`
+      div.appendChild(h2);
+      document.body.appendChild(div);
+    },0);
+    setTimeout(()=>{
+      populate();
+    },150);
     function populate(){
       fetch(decodeAndAdd("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0Fsb25zb0FsaWFnYS9BbG9uc29BbGlhZ2FBUEkvcmVmcy9oZWFkcy9tYWluL2FwaS9hZHMvYWRzLmpzb24="))
         .then(res => {
