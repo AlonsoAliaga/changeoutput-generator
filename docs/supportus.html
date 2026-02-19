@@ -58,7 +58,7 @@
   <script>
     function processAds() {}
     let supportButton = document.getElementById("support-button");
-    if(adBlockEnabled) {
+    if(typeof window.getRandomStyle == "undefined" || typeof adBlockEnabled == "undefined" || adBlockEnabled) {
       supportButton.innerHTML = `🚫 Your AdBlock is enabled! 🚫<br>Disable it to access this feature..`;
     }else{
         let time = 15;
