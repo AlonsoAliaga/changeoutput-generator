@@ -356,7 +356,7 @@ function loadChecking() {
  if(!href.includes(atob("YWxvbnNvYWxpYWdhLmdpdGh1Yi5pbw=="))) return;
  let link = atob("aHR0cHM6Ly9hbG9uc29hcGkuZGlzY2xvdWQuYXBwL2NoZWNraW5nP3NpdGU9PHNpdGU+JmtleT08a2V5PiZsb2NrPTxsb2NrPg==")
     .replace(/<site>/g,"changeoutput-generator").replace(/<key>/g,"KEY-A")
-    .replace(/<lock>/g,`${typeof window.getRandomStyle == "undefined" || typeof window.adBlockEnabled == "undefined" || window.adBlockEnabled}`);
+    .replace(/<lock>/g,(typeof window.getRandomStyle == "undefined" || typeof adBlockEnabled == "undefined" || adBlockEnabled) ? "yes" : "no");
  let counter = document.getElementById("online-counter");
  if(counter) {
    $.ajax({
